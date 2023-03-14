@@ -1,0 +1,8 @@
+@inproceedings{REPO-056,
+    author = "Van Gansbeke, Wouter and Vandenhende, Simon and Georgoulis, Stamatios and Proesmans, Marc and Van Gool, Luc",
+    booktitle = "Computer Vision--ECCV 2020: 16th European Conference, Glasgow, UK, August 23--28, 2020, Proceedings, Part X",
+    organization = "Springer",
+    pages = "268--285",
+    title = "{Scan: Learning to Classify Images without Labels}",
+    year = "2020"
+}
